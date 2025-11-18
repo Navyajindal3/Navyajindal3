@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 First-year **Computer Science Engineering** student  
+- 🎓 Second-year **Computer Science Engineering** student  
 - 🌐 Interested in **Web Development, DSA, and Problem Solving**  
 - ⚡ Fun fact: *I read a lot and blend creativity with technology*  
 
