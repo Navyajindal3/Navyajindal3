@@ -1,138 +1,70 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Navya%20Jindal&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI-ML%20Engineer%20%E2%80%A2%20Problem%20Solver%20%F0%9F%94%90&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Navyajindal3&label=Profile+Views&color=764ba2&style=flat-square" />
-&nbsp;
-<a href="https://github.com/Navyajindal3?tab=followers">
-  <img src="https://img.shields.io/github/followers/Navyajindal3?label=Followers&style=flat-square&color=667eea" />
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Navya+Jindal!+👋;Full-Stack+Developer+👨%E2%80%8D%F0%9F%92%BB;AI+%26+Cybersecurity+Enthusiast+🚀;Competitive+Programmer+🏆" alt="Typing SVG" />
 </div>
 
----
-
-## 🌐 Find Me Online
+<h3 align="center">Building scalable platforms, crafting AI tools, and solving complex algorithmic challenges.</h3>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navyajindal3107)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:navyajindal3107@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Navya404)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/navyaa404)
-
+  <a href="https://linkedin.com/in/navyajindal3107"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:navyajindal3107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### 🚀 About Me
+Hi there! I'm Navya, a Computer Science and Artificial Intelligence undergraduate at IGDTUW with a profound passion for architecting secure, high-impact platforms.
 
-Hey! I'm **Navya** — a **CSE + AI** undergrad at **IGDTUW, New Delhi**, building systems that sit at the intersection of **cybersecurity**, **machine learning**, and **distributed systems**.
+My engineering philosophy revolves around building highly efficient and resilient intelligent systems. Whether it's crafting a complex Retrieval-Augmented Generation (RAG) pipeline for real-time data analysis or engineering multi-layered cybersecurity defensive gauntlets, I thrive in environments that challenge my technical and problem-solving capabilities.
+
+Beyond the code, I am a multi-hackathon champion, and an active competitive programmer who consistently builds, competes, and learns.
 
 ---
 
-## ⚙️ Tech Stack
+### 💻 Technology Arsenal
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,redux,nodejs,express,mongodb,mysql,redis,git,github,postman,flask&perline=8" />
+  </a>
+</div>
+
+---
+
+### 🏆 Honors & Milestones
 
 <div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=cpp,python,js,sql,react,nodejs,express,flask,tensorflow,git,github,vscode,linux,tailwind&theme=dark&perline=7)](https://skillicons.dev)
-
+  <img src="https://img.shields.io/badge/Lean_In_Hacks_7.0-1st_Place-FFD700?style=for-the-badge&logo=hackaday&logoColor=black" />
+  <img src="https://img.shields.io/badge/AM_Hacks_2.0-Best_Build-FF69B4?style=for-the-badge&logo=devpost&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-Max_1600-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Max_1565-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Codeforces-Max_1316-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </div>
 
 ---
 
-## 🚀 Projects
+### 🔬 Innovation Showcase
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🛡️ Vajra
-**Multi-Layer Security Infrastructure**
-
-`C++` `Python` `Crow` `OpenCV` `Node.js` `SHA-256 PoW`
-
-Architected a **5-layer defensive labyrinth** protecting startup databases. Engineered a **Botnet Math Tax** forcing attackers into computationally expensive traps — neutralizing **45% adversarial traffic** at entry.
-
-</td>
-<td align="center" width="33%">
-
-#### 🪪 ClearPath
-**Zero-Trust Digital Identity Engine**
-
-`Node.js` `React` `Express.js` `SHA-256` `ECDSA` `JWT` `MQTT`
-
-Tamper-proof **Digital Product Passports** via ECDSA + SHA-256. Multi-channel IoT ingestion across **5+ touchpoints**, slashing infrastructure costs **66%** via dynamic QR-trust architecture.
-
-</td>
-<td align="center" width="33%">
-
-#### 📺 YT-Summarizer
-**RAG-Powered Video Intelligence**
-
-`Python` `Pathway` `Flask` `JavaScript` `Gemini Embeddings`
-
-Live RAG pipeline cutting time-to-insight by **85%**. Differential Dataflow for **100% index consistency** + dynamic chunking via Gemini Embeddings for precise Q&A.
-
-</td>
-</tr>
-</table>
-
-</div>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛡️ Vajra** | Five-layer cybersecurity defensive gauntlet featuring botnet traps, Proof-of-Work challenges, and bit-level data sharding. | `C++`, `Cryptography`, `Algorithms` |
+| **🔗 ClearPath** | Supply chain traceability system utilizing ECDSA signatures and SHA-256 hashing for tamper-proof digital logs. | `Security`, `Hashing`, `Data Integrity` |
+| **🎫 QuickShow** | Full-stack movie ticket booking platform with concurrency-safe 10-minute seat locks, QR verification, and webhooks. | `MERN`, `Redis`, `Redux Toolkit` |
+| **📄 Resume Lens** | AI-powered resume platform scoring profiles across 5 weighted ATS criteria using real-time previews. | `Node.js`, `Express`, `Gemini API` |
+| **▶️ YT-Summarizer** | Real-time YouTube analysis platform using RAG, vector embeddings, and adjustable transcript chunking for video Q&A. | `Python`, `Flask`, `RAG`, `Vector DB` |
 
 ---
-
-## 🏆 Hackathon Record
-
-<div align="center">
-
-| 🏅 | Event | Result |
-|:--:|-------|:------:|
-| 🥇 | **Lean In Hacks 7.0** (Lean In IGDTUW) | **1st Place** · 100+ teams |
-| 🏗️ | **AM Hacks 2.0** (Assetmerle IGDTUW) | **Best Build** · 200+ teams |
-| 🥈 | **Ideagen Hackathon** (IGDTUW Resources) | **2nd Place** · 109+ teams |
-| ⚡ | **TechJam 2.0** (Code Rangers) | **Top 10** · 1700+ registrations |
-</div>
-
----
-
-## 📊 Stats
+### 📊 Developer Metrics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Navyajindal3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B48EFF&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea&count_private=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyajindal3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B48EFF&text_color=c9d1d9&langs_count=6" height="160" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navyajindal3&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currStreakLabel=B48EFF&sideLabels=B48EFF&dates=c9d1d9" height="160" />
-&nbsp;&nbsp;
-<img src="https://leetcard.jacoblin.cool/Navya404?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=8" height="160" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navyajindal3&theme=tokyo-night&bg_color=0d1117&color=B48EFF&line=764ba2&point=f093fb&area=true&hide_border=true" width="100%" />
-
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Navyajindal3&show_icons=true&theme=tokyonight&hide_border=true&title_color=F72585&icon_color=7289DA&text_color=ffffff&bg_color=1A1B27" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navyajindal3&theme=tokyonight&hide_border=true&fire=F72585&ring=7289DA&currStreakLabel=7289DA" alt="GitHub Streak" width="48%" />
 </div>
-
----
+<br>
+<div align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Navyajindal3&layout=compact&theme=tokyonight&hide_border=true&title_color=F72585&text_color=ffffff&bg_color=1A1B27" alt="Top Languages" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/Navya404?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%" />
+</div>
 
 <div align="center">
-
-*"Security without intelligence is a lock without a key.*
-*Intelligence without security is a door without a lock.*
-*I build both."*
-
-— **Navya Jindal**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer&text=Thanks+for+stopping+by!+⭐&fontSize=16&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" />
-
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Keep%20Building!&fontSize=20&fontAlignY=30&fontColor=ffffff" width="100%"/>
 </div>
-
