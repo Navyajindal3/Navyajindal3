@@ -36,7 +36,7 @@ Beyond the code, I am a multi-hackathon champion, and an active competitive prog
   <img src="https://img.shields.io/badge/AM_Hacks_2.0-Best_Build-FF69B4?style=for-the-badge&logo=devpost&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeChef-Max_1600-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-Max_1565-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Codeforces-Max_1316-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Max_1456-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </div>
 
 ---
